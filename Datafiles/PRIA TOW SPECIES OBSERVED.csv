@@ -1,0 +1,115 @@
+"","FAMILY","SPECIES","TAXONNAME","Baker","Howland","Jarvis","Johnston","Kingman","Palmyra","Wake"
+"1","Acanthuridae","ACMT","Acanthurus mata",3,1,0,0,0,0,0
+"2","Acanthuridae","ACXA","Acanthurus xanthopterus",15,5,4,0,0,0,0
+"3","Acanthuridae","NAAN","Naso annulatus",2,2,5,1,7,16,0
+"4","Acanthuridae","NABR","Naso brevirostris",6,1,36,5,1,1,27
+"5","Acanthuridae","NACA","Naso caesius",0,6,3,0,0,0,0
+"6","Acanthuridae","NAHE","Naso hexacanthus",291,416,840,105,109,55,25
+"7","Acanthuridae","NALI","Naso lituratus",0,0,0,0,0,2,2
+"8","Acanthuridae","NASP","Naso sp",5,27,88,10,26,11,7
+"9","Acanthuridae","NATO","Naso tonganus",0,0,6,0,2,2,0
+"10","Acanthuridae","NAUN","Naso unicornis",0,4,0,2,0,22,4
+"11","Acanthuridae","NAVL","Naso vlamingii",298,329,4,0,12,18,0
+"12","Acanthuridae","SURG","Acanthuridae",16,88,50,0,1,37,0
+"13","Aulostomidae","AUCH","Aulostomus chinensis",18,2,9,109,11,9,4
+"14","Balistidae","BAVI","Balistoides viridescens",68,20,40,0,2,113,9
+"15","Balistidae","PSFL","Pseudobalistes flavimarginatus",1,3,41,0,5,145,0
+"16","Balistidae","TRIG","Balistidae",0,0,0,0,0,2,0
+"17","Belonidae","TYCR","Tylosurus crocodilus",0,0,1,0,77,1,0
+"18","Carangidae","ALCI","Alectis ciliaris",0,0,0,0,0,0,2
+"19","Carangidae","CAFE","Carangoides ferdau",8,35,26,1,8,4,0
+"20","Carangidae","CAIG","Caranx ignobilis",63,36,20,4,15,279,0
+"21","Carangidae","CALU","Caranx lugubris",189,442,1030,98,59,10,1
+"22","Carangidae","CAME","Caranx melampygus",104,62,183,382,157,157,83
+"23","Carangidae","CAOR","Carangoides orthogrammus",2,120,55,5,0,0,2
+"24","Carangidae","CASE","Caranx sexfasciatus",0,917,3542,399,1066,575,4202
+"25","Carangidae","ELBI","Elagatis bipinnulata",201,996,237,1,243,253,80
+"26","Carangidae","JACK","Carangidae",0,46,1,0,1,0,0
+"27","Carangidae","SCLY","Scomberoides lysan",0,2,0,22,2,49,5
+"28","Carangidae","SEDU","Seriola dumerili",0,0,0,3,0,0,24
+"29","Carcharhinidae","CAAB","Carcharhinus amblyrhynchos",373,907,1969,272,1494,627,441
+"30","Carcharhinidae","CAAL","Carcharhinus albimarginatus",0,0,0,0,1,0,0
+"31","Carcharhinidae","CAGA","Carcharhinus galapagensis",0,1,2,9,0,0,0
+"32","Carcharhinidae","CAML","Carcharhinus melanopterus",11,34,120,0,2,291,0
+"33","Carcharhinidae","GACU","Galeocerdo cuvier",0,0,0,1,1,1,0
+"34","Carcharhinidae","SHAR","Carcharhinidae",0,0,1,0,2,0,0
+"35","Carcharhinidae","TROB","Triaenodon obesus",77,15,272,0,371,94,3
+"36","Chanidae","CHCH","Chanos chanos",54,14,283,0,203,1157,520
+"37","Dasyatidae","DASY","Dasyatidae",0,0,1,0,0,0,0
+"38","Dasyatidae","TAME","Taeniura meyeni",6,4,11,0,1,0,0
+"39","Diodontidae","DIHY","Diodon hystrix",3,1,16,3,3,0,19
+"40","Echeneidae","ECNA","Echeneis naucrates",1,0,0,0,0,0,0
+"41","Ephippidae","PLTE","Platax teira",0,18,0,0,0,0,0
+"42","Fistulariidae","FICO","Fistularia commersonii",7,6,14,170,43,20,160
+"43","Holocentridae","SASP","Sargocentron spiniferum",0,0,0,0,1,0,0
+"44","Kyphosidae","CHUB","Kyphosus sp",11,0,28,0,0,3,1
+"45","Labridae","BOBI","Bodianus bilunulatus",0,0,0,5,0,0,0
+"46","Labridae","CHUD","Cheilinus undulatus",8,6,15,0,0,283,232
+"47","Labridae","COAY","Coris aygula",21,3,12,0,2,1,34
+"48","Labridae","WRAS","Labridae",0,0,1,0,0,0,0
+"49","Lethrinidae","EMPE","Lethrinidae",0,2,0,0,0,0,0
+"50","Lethrinidae","LEOL","Lethrinus olivaceus",6,5,1,0,1,76,3
+"51","Lethrinidae","LETH","Lethrinus sp",0,0,0,0,0,7,0
+"52","Lethrinidae","LEXA","Lethrinus xanthochilus",0,0,0,0,0,2,0
+"53","Lethrinidae","MOGR","Monotaxis grandoculis",23,33,6,0,73,41,5
+"54","Lutjanidae","APFU","Aphareus furca",0,0,1,9,0,0,0
+"55","Lutjanidae","APVI","Aprion virescens",8,13,0,61,40,7,2
+"56","Lutjanidae","LUBO","Lutjanus bohar",1253,1437,1373,0,3483,3350,0
+"57","Lutjanidae","LUGI","Lutjanus gibbus",4,7,0,0,0,0,0
+"58","Lutjanidae","LUMO","Lutjanus monostigma",0,1,2,0,0,1,0
+"59","Lutjanidae","MACO","Macolor sp",9,38,0,0,0,0,1
+"60","Lutjanidae","MAMA","Macolor macularis",3,0,0,0,0,0,0
+"61","Lutjanidae","MANI","Macolor niger",119,25,1,0,0,0,4
+"62","Lutjanidae","SNAP","Lutjanidae",2,0,0,0,0,0,0
+"63","Monacanthidae","ALSC","Aluterus scriptus",20,37,13,10,9,8,16
+"64","Mullidae","PACY","Parupeneus cyclostomus",0,2,0,2,0,0,2
+"65","Muraenidae","GYFL","Gymnothorax flavimarginatus",0,3,0,2,0,2,2
+"66","Muraenidae","GYJA","Gymnothorax javanicus",0,0,0,8,1,1,49
+"67","Muraenidae","GYME","Gymnothorax meleagris",2,0,1,4,0,1,0
+"68","Muraenidae","GYSP","Gymnothorax sp",0,1,0,1,1,0,2
+"69","Muraenidae","GYUN","Gymnothorax undulatus",3,0,0,0,0,1,0
+"70","Muraenidae","GYZE","Gymnomuraena zebra",0,1,0,0,0,0,0
+"71","Muraenidae","MORA","Muraenidae",0,0,1,0,0,1,0
+"72","Myliobatidae","AENA","Aetobatus narinari",28,23,1,43,8,35,113
+"73","Myliobatidae","MABI","Manta birostris",46,28,123,3,60,70,1
+"74","Oplegnathidae","OPPU","Oplegnathus punctatus",0,0,0,0,0,0,3
+"75","Scaridae","BOMU","Bolbometopon muricatum",0,0,1,0,0,9,852
+"76","Scaridae","CHFN","Chlorurus frontalis",0,0,0,0,0,1,12
+"77","Scaridae","CHMC","Chlorurus microrhinos",24,5,24,0,1215,591,87
+"78","Scaridae","CHPE","Chlorurus perspicillatus",0,0,0,22,0,0,0
+"79","Scaridae","HILO","Hipposcarus longiceps",0,0,0,0,0,42,12
+"80","Scaridae","SCAL","Scarus altipinnis",1,0,7,0,9,1,46
+"81","Scaridae","SCFE","Scarus festivus",1,0,0,0,0,0,0
+"82","Scaridae","SCFO","Scarus forsteni",0,0,1,0,0,0,17
+"83","Scaridae","SCFR","Scarus frenatus",7,1,1,0,0,0,0
+"84","Scaridae","SCGH","Scarus ghobban",0,0,0,0,0,2,8
+"85","Scaridae","SCRU","Scarus rubroviolaceus",161,201,395,32,30,31,15
+"86","Scaridae","SCSP","Scarus sp",3,26,79,0,9,8,14
+"87","Scombridae","ACSO","Acanthocybium solandri",0,0,1,0,2,1,6
+"88","Scombridae","EUAF","Euthynnus affinis",2,3,0,0,0,0,0
+"89","Scombridae","GYUC","Gymnosarda unicolor",51,56,2,0,0,0,1
+"90","Serranidae","CEAR","Cephalopholis argus",22,12,9,0,3,5,9
+"91","Serranidae","CESX","Cephalopholis sexmaculata",0,0,1,0,0,2,0
+"92","Serranidae","EPLA","Epinephelus lanceolatus",0,0,0,0,3,0,0
+"93","Serranidae","EPPO","Epinephelus polyphekadion",0,0,0,0,3,12,14
+"94","Serranidae","EPSP","Epinephelus sp",3,12,4,0,1,7,2
+"95","Serranidae","EPTA","Epinephelus tauvina",0,2,0,0,0,1,5
+"96","Serranidae","GROU","Serranidae",3,3,0,0,0,1,6
+"97","Serranidae","PLLV","Plectropomus laevis",0,2,3,0,2,0,0
+"98","Serranidae","VALO","Variola louti",86,104,99,0,64,157,1
+"99","Sphyraenidae","BARR","Sphyraenidae",230,5,60,0,1,62,1
+"100","Sphyraenidae","SPBA","Sphyraena barracuda",3,132,30,8,12,245,3
+"101","Sphyraenidae","SPHE","Sphyraena helleri",0,670,7,0,473,80,95
+"102","Sphyraenidae","SPQE","Sphyraena qenie",394,390,2577,0,193,126,0
+"103","Sphyrnidae","HAMM","Sphyrnidae",1,1,1,0,0,1,0
+"104","Sphyrnidae","SPLE","Sphyrna lewini",23,3,48,0,10,21,0
+"105","Sphyrnidae","SPMO","Sphyrna mokarran",0,0,5,0,0,8,0
+"106","Tetraodontidae","ARMA","Arothron mappa",0,1,0,0,0,0,0
+"107","Tetraodontidae","ARST","Arothron stellatus",0,0,0,0,0,1,0
+"108","Balaenopteridae","MENO","Megaptera novaeangliae",0,0,0,3,0,0,0
+"109","Cheloniidae","GRTU","Chelonia mydas",92,76,326,2,17,240,34
+"110","Cheloniidae","HKTU","Eretmochelys imbricata",6,3,17,0,21,22,0
+"111","Cheloniidae","TURT","Chelonia sp",68,41,349,4,4,124,15
+"112","Delphinidae","DOLP","Delphinidae",0,15,46,0,41,0,0
+"113","Delphinidae","TUTR","Tursiops truncatus",0,0,3,0,0,0,0
+"114","UNKNOWN","NONE","no individuals seen",0,0,0,0,0,0,0
